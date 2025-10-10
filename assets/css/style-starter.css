@@ -3514,6 +3514,7 @@ fieldset:disabled .btn {
 .btn-outline-primary {
   color: #61CE70;
   border-color: #61CE70;
+  border-radius: 20px;
 }
 
 .btn-outline-primary:hover {
