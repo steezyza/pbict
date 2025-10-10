@@ -19265,7 +19265,7 @@ h5.small-title {
 }
 
 .slide:first-child {
-  background: url(../images/banner1.jpg) no-repeat center top/cover;
+  background: url(../images/banner1.png) no-repeat center top/cover;
 }
 
 .slide:nth-child(2) {
@@ -20082,7 +20082,7 @@ p.post-footer a:hover {
 
 /* inner banner */
 .inner-banner {
-  background: url(../images/inner-banner.jpg) no-repeat top;
+  background: url(../images/inner-banner.png)no-repeat top;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
