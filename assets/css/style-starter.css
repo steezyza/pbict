@@ -20425,6 +20425,13 @@ h5.contact-text {
   color: var(--heading-color);
 }
 
+.blog-post-info .post-meta {
+  font-size: 15px;
+  color: var(--font-color);
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
 .sidebar .sidebar-widget {
   background: var(--bg-lightgrey);
   padding: 2rem;
@@ -20489,6 +20496,11 @@ h5.contact-text {
   -ms-filter: var(--iframe-filter);
   -o-filter: var(--iframe-filter);
   filter: var(--iframe-filter);
+}
+
+.article-list {
+  list-style-type: disc;
+  margin-left: 25px;
 }
 
 /* //contact */
