@@ -20503,4 +20503,12 @@ h5.contact-text {
   margin-left: 25px;
 }
 
+.article-list li {
+  font-size: 14px; /* You can adjust this value */
+  line-height: 18px; /* Adjust line height for readability */
+  margin-bottom: 8px; /* Adds space between list items */
+  color: var(--font-color);
+}
+
+
 /* //contact */
